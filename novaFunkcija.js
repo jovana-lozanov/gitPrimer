@@ -3,3 +3,5 @@ const proba = (a, b, c) => {
   else if (a <= b) return -1;
   return c;
 };
+
+export default proba;
